@@ -1,0 +1,9 @@
+C:\Projects\thing_not_covered\thing_not_covered\bin\Debug\thing_not_covered.exe.config
+C:\Projects\thing_not_covered\thing_not_covered\bin\Debug\thing_not_covered.exe
+C:\Projects\thing_not_covered\thing_not_covered\bin\Debug\thing_not_covered.pdb
+C:\Projects\thing_not_covered\thing_not_covered\obj\Debug\thing_not_covered.csprojResolveAssemblyReference.cache
+C:\Projects\thing_not_covered\thing_not_covered\obj\Debug\thing_not_covered.exe
+C:\Projects\thing_not_covered\thing_not_covered\obj\Debug\thing_not_covered.pdb
+D:\Projects\thing_not_covered\thing_not_covered\bin\Debug\thing_not_covered.exe.config
+D:\Projects\thing_not_covered\thing_not_covered\obj\Debug\thing_not_covered.exe
+D:\Projects\thing_not_covered\thing_not_covered\obj\Debug\thing_not_covered.pdb
